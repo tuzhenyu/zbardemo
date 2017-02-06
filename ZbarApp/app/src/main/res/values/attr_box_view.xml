@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BoxView">
+        <attr name="frameColor" format="color" />
+        <attr name="cornnerColor" format="color" />
+        <attr name="cornnerLineLengthRate" format="float" />
+        <attr name="cornnerLineWidth" format="dimension" />
+        <attr name="frameLineWidth" format="dimension" />
+    </declare-styleable>
+</resources>
